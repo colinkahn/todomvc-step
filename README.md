@@ -14,6 +14,8 @@ See the original README (below) for details on running it. Once you have it
 running open the devtools console and after each action you'll see the current
 [state action state'] transition step that has been conformed via the step spec.
 
+![Conformed Step Logs](https://user-images.githubusercontent.com/1444385/45593253-11eec280-b937-11e8-8d0b-fe4fe4e3986f.gif)
+
 # TodoMVC done with re-frame
 
 A [re-frame](https://github.com/Day8/re-frame) implementation of [TodoMVC](http://todomvc.com/).
