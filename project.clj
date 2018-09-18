@@ -7,7 +7,7 @@
                  [re-frame "0.10.5"]
                  [binaryage/devtools "0.9.4"]
                  [secretary "1.2.3"]
-                 [org.clojars.protocol55/step "0.1.0"]]
+                 [org.clojars.protocol55/step "0.2.0"]]
 
 
   :plugins [[lein-cljsbuild "1.1.7"]
